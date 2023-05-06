@@ -5,6 +5,6 @@
 
 🎓 An Engineering and Application development enthusiast, interested in creating some creative UI/UX and building something which they need with the help of Technology and Applications.
 <br/>
-🎓 I'm currently learning Flutter.
+I'm currently learning Flutter.
 <br/>
 💫 I believe that keeping the app lightweight and optimized for performance is critical for user experience and retention.
