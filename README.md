@@ -13,55 +13,15 @@ I'm currently learning Flutter.
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%2300599C.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white) ![Gradle](https://img.shields.io/badge/gradle-%2300599C.svg?style=for-the-badge&logo=gradle&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Illustration](https://img.shields.io/badge/illustration-%2300599C.svg?style=for-the-badge&logo=illustration&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<!--
-- **Frontend Development**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize-css"/>
-</a>
-</ul>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mshubhr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mshubhr&theme=dark&hide_border=false)<br/>
+<![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshubhr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- **Backend Development**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"/>
-</a>
-</ul>
+---
+[![](https://visitcount.itsvg.in/api?id=mshubhr&icon=7&color=9)](https://visitcount.itsvg.in)
 
-- **Mobile App Development**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://reactnative.dev/img/header_logo.svg" alt="react-native"/>
-</a>
-</ul>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- **Database & Tools**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe-xd"/>
-</a>
-</ul> -->
+[![@mshubhr's Holopin board](https://holopin.io/api/user/board?user=mshubhr)](https://holopin.io/@mshubhr)
