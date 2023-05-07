@@ -2,6 +2,10 @@
 <h3 align="center">Interested in Android Development</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhr-modh-05b232222/)  <a href="https://g.dev/shubhr_modh" target="blank"><img src="https://img.shields.io/badge/Google%20Developer-Profile-yellow" alt="google_dev" /></a>
+<a href="mailto:modhshubhr53@gmail.com">
+    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" style="max-width: 100%;"/>
+</a>
+<a href="https://instagram.com/mshubh_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mshubh_r" height="30" width="40" /></a>
 
 🎓 An Engineering and Application development enthusiast, interested in creating some creative UI/UX and building something which they need with the help of Technology and Applications.
 <br/>
@@ -16,7 +20,9 @@ I'm currently learning Flutter.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mshubhr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mshubhr&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshubhr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mshubhr&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshubhr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mshubhr&icon=7&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mshubhr&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
