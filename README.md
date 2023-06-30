@@ -1,4 +1,4 @@
-<h1 align="center">I'm Shubhr Modh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" /></h1>
+<h1 align="center">Hi, I'm Shubhr Modh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" /></h1>
 <h3 align="center">Interested in Android Development</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhr-modh-05b232222/) [![GoogleDeveloper](https://img.shields.io/badge/DeveloperProfile-%230077B5.svg?logo=googledeveloper&logoColor=white)](https://g.dev/shubhr_modh)  [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:modhshubhr53@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mshubh_r/)
