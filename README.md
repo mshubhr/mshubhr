@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/-Canva-BC8F8F?logo=canva&logoColor=black&style=for-the-badge">
     <img src="https://img.shields.io/badge/Figma-%2300599C.svg?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/-mySQL-FFFFE0?logo=mySQL&logoColor=OrangeRed&style=for-the-badge">
     <img src="https://img.shields.io/badge/-SQLite-FFFFE0?logo=SQLite&logoColor=blue&style=for-the-badge">
     <img src="https://img.shields.io/badge/notion-%23512BD4.svg?style=for-the-badge&logo=notion&logoColor=white">
