@@ -10,7 +10,7 @@
 ✨ Believe that keeping the app lightweight and optimized for performance is critical for user experience and retention.
 
 ## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;">
-<p align="center">
+
   <img src="https://img.shields.io/badge/-android-7F52F?logo=android&logoColor=white&style=for-the-badge">
   ![Kotlin](https://img.shields.io/badge/kotlin-%2300599C.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   <img src="https://img.shields.io/badge/-firebase-051e34?logo=firebase&logoColor=yellow&style=for-the-badge">
@@ -26,7 +26,6 @@
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)	
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mshubhr&theme=dark&hide_border=false)
