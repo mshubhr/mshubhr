@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/gradle-%23563D7C.svg?style=for-the-badge&logo=gradle&logoColor=white">
-    <img src="https://img.shields.io/badge/-XML-FFEFD5?logo=adobe-XML&logoColor=purple&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-XML-FFEFD5?logo=adobe-xml&logoColor=purple&style=for-the-badge">
     <img src="https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/-Canva-BC8F8F?logo=canva&logoColor=black&style=for-the-badge">
     <img src="https://img.shields.io/badge/Figma-%2300599C.svg?style=for-the-badge&logo=figma&logoColor=white">
