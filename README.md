@@ -20,13 +20,13 @@
     <img src="https://img.shields.io/badge/gradle-%23563D7C.svg?style=for-the-badge&logo=gradle&logoColor=white">
     <img src="https://img.shields.io/badge/-XML-61DAFB?logo=XML&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/xd%23404d59.svg?style=for-the-badge&logo=xd&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/-Canva-BC8F8F?logo=canva&logoColor=black&style=for-the-badge">
     <img src="https://img.shields.io/badge/Figma-%2300599C.svg?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="[https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)">
     <img src="https://img.shields.io/badge/-mySQL-FFFFE0?logo=mySQL&logoColor=OrangeRed&style=for-the-badge">
     <img src="https://img.shields.io/badge/-SQLite-FFFFE0?logo=SQLite&logoColor=blue&style=for-the-badge">
     <img src="https://img.shields.io/badge/notion-%23512BD4.svg?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/-xd-FFEFD5?logo=adobe-xd&logoColor=purple&style=for-the-badge">
 </p>
 
 # 📊 GitHub Stats:
