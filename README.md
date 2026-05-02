@@ -1,5 +1,15 @@
-<h1 align="center">Hi, I'm Shubhr Modh</h1>
-<h3 align="left">Looking for the CMP project</h3>
+<h1 align="center">Hi, I'm Shubhr Modh 👋 </h1>
+<h3 align="left">Android Developer | Kotlin | Jetpack Compose  </h3>
+
+- Building modern Android apps  
+- Focused on clean architecture & performance  
+- Open to remote opportunities  
+
+Projects:
+- Password Manager (Security focused)
+- FieldSync (OTP backend, Chart of size of images)
+
+GitHub: https://github.com/mshubhr?tab=repositories
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhr-modh-05b232222/) [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:modhshubhr53@gmail.com)
 
